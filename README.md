@@ -205,7 +205,6 @@ project/
 │
 ├── main.py                          # Main program
 ├── requirements.txt                 # Python dependencies
-├── SETUP_CNN_MODEL.md               # CNN model setup guide
 ├── README.md
 │
 ├── deploy.prototxt                  # CNN architecture (download)
