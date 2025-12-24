@@ -46,21 +46,21 @@ Sistem deteksi dan pelacakan objek real-time yang mengintegrasikan **traditional
 
 ## 🎥 Demo
 
-### Color Detection Mode
-
-![Color Detection Demo](demo/color_detection.gif)
-
-> Deteksi objek biru dengan tracking trail
-
 ### CNN Detection Mode
 
-![CNN Detection Demo](demo/cnn_detection.gif)
+![CNN Detection Demo](demo/cnn_person.png)
 
 > Multi-class object detection dengan confidence scores
 
+### Color Detection Mode
+
+![Color Detection Demo](demo/object_blue.png)
+
+> Deteksi objek biru dengan tracking trail
+
 ### Edge Detection
 
-![Edge Detection Demo](demo/edge_detection.gif)
+![Edge Detection Demo](demo/edge_detection.png)
 
 > Canny edge detection overlay
 
