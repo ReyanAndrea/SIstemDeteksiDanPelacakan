@@ -335,16 +335,6 @@ Project ini mengimplementasikan berbagai teknik CV:
 
 ---
 
-## 🙏 Acknowledgments
-
-- **OpenCV Team** - Computer vision library
-- **Anthropic** - Claude AI assistance
-- **Dosen Pengampu** - [Nama Dosen] untuk guidance mata kuliah
-- **MobileNet-SSD Authors** - Pretrained model
-- **PASCAL VOC** - Dataset untuk training
-
----
-
 ## 📚 References
 
 1. Howard, A. G., et al. (2017). MobileNets: Efficient CNNs for Mobile Vision
